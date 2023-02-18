@@ -2,7 +2,7 @@ import Card from '../UI/Card';
 import MealItem from './MealItem/MealItem';
 import classes from './AvailableMeals.module.css';
 
-// 홍은정/고은정/이상지 템플릿
+// 데이트 코스 템플릿
 const DUMMY_MEALS = [
   {
     id: 'm1',
